@@ -1,0 +1,20 @@
+{
+	"name": "chester-theme",
+	"displayName": "Atom Chester 2.0",
+	"description": "Atom Chester Theme 2.0",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"publisher": "TommyLDunn",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [{
+			"label": "Chester Theme",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Atom Chester 2.0-color-theme.json"
+		}]
+	}
+}
