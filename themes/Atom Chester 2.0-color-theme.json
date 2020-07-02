@@ -83,7 +83,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#FFC83F"
+				"foreground": "#ffc83f"
 			}
 		},
 		{
@@ -121,7 +121,7 @@
 			"name": "Class name",
 			"scope": "entity.name.type.class, meta.class.instance.constructor",
 			"settings": {
-				"foreground": "#f8f8f0"
+				"foreground": "#FFC83F"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#fff"
+				"foreground": "#f8f8f0"
 			}
 		},
 		{
