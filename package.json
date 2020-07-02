@@ -1,8 +1,8 @@
 {
 	"name": "chester-theme",
-	"displayName": "Atom Chester 2.0",
-	"description": "Atom Chester Theme 2.0",
-	"version": "0.0.1",
+	"displayName": "Chester Theme",
+	"description": "Atom like Chester Theme",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
@@ -16,5 +16,19 @@
 			"uiTheme": "vs-dark",
 			"path": "./themes/Atom Chester 2.0-color-theme.json"
 		}]
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tommydunn/chester-theme.git"
+	},
+	"keywords": [
+		"vscode",
+		"chester"
+	],
+	"author": "Tommy Dunn",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tommydunn/chester-theme/issues"
+	},
+	"homepage": "https://github.com/tommydunn/chester-theme#readme"
 }
